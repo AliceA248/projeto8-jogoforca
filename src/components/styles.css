@@ -1,0 +1,42 @@
+.ImagemForca img {
+    height: 466.6666564941406px;
+    width: 400px;
+    border-radius: 0px;
+    margin-top: 49px;
+
+}
+
+.ImagemForca {
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn {
+    height: 60px;
+    width: 200px;
+    border-radius: 8px;
+    margin-top: 89px;
+    background-color: green;
+    color: white;
+    border-color: green;
+
+}
+
+.ConjuntoLetras {
+    text-align: center;
+    height: 91px;
+    width: 700px;
+    margin-left: 400px;
+}
+
+.letra {
+    height: 40px;
+    width: 40px;
+    border-radius: nullpx;
+    background-color: #9FAAB5;
+    border: 1px solid #7AA7C7;
+    border-radius: 3px;
+    margin-left: 13px;
+    margin-top: 11px;
+
+}
